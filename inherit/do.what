@@ -1,0 +1,30 @@
+final target:
+class BigInt{
+vars:
+int num[]
+int length
+bool isPrime
+bool isOdd
+bool isEven
+
+functions:
+add
+sub
+
+toHex
+toBin
+toBajinzhi
+
+mul
+div
+
+pow
+reverse
+log
+prime
+factorize
+gedebahe
+lmnj
+to_string
+time
+}
