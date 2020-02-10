@@ -1,7 +1,10 @@
-lsbrelease -a
-Distributor ID:	Ubuntu
-Description:	Ubuntu 18.04.4 LTS
-Release:	18.04
-Codename:	bionic
+read a book "study cpp in 21 days"
+write examples in the book
+code in Ubuntu in VMware with g++ 
 
-_f_introduceSTL: no file to compile, just intruduction.
+my env:
+VMware	:	15.0.4 
+Ubuntu	:	18.04.4 LTS
+vim	:	8.0
+g++	:	7.4.0
+git	:	2.17.1
